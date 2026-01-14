@@ -1,6 +1,6 @@
 "# Ai-Jarvis-voice-assistant" 
 
-"# An advanced, AI-powered voice assistant built with Python, designed to interact, assist, and perform tasks intelligently—just like JARVIS from the Marvel series Iron Man. This project aims to create a conversational AI capable of understanding natural language, executing commands, and assisting with daily operations."
+"# An advanced, AI-powered voice assistant built with Python, designed to interact, assist, and perform tasks intelligently just like JARVIS from the Marvel series Iron Man. This project aims to create a conversational AI capable of understanding natural language, executing commands, and assisting with daily operations."
 
 Features
 
@@ -55,6 +55,7 @@ Example Commands:
 "Search Python tutorials on Google"
 
 "Who are you"
+
 
 
 
